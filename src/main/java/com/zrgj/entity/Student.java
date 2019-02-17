@@ -20,6 +20,7 @@ public class Student {
     @Override
     public boolean equals(Object o) {
         System.out.println("asd");
+        System.out.println("asda");
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
