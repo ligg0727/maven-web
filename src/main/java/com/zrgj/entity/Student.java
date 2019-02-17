@@ -21,6 +21,7 @@ public class Student {
     public boolean equals(Object o) {
         System.out.println("asd");
         System.out.println("asda");
+        System.out.println("sdas");
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
